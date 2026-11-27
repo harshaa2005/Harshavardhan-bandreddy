@@ -1,48 +1,75 @@
-Harshavardhan
+Harsha Vardhan Bandreddy
 
-Computer Science Student | Aspiring Software Developer
+Computer Science Undergraduate | Aspiring Software Engineer
 
-I’m a Computer Science student interested in software engineering, full-stack development, and machine learning. I enjoy working on practical projects, exploring new technologies, and understanding how things work behind the code.
+I’m a Computer Science undergraduate at Vignan’s Foundation for Science, Technology and Research, interested in software development, full-stack applications, and machine learning.
 
-My focus is on strengthening my programming fundamentals and building applications that solve real-world problems.
+I enjoy developing practical applications, learning new technologies, and solving problems through programming.
 
 Technical Skills
 
-Programming: Python, Java, C#, SQL
+Programming Languages
 
-Frontend: React.js, Next.js, React Native
+* Python, Java, SQL, HTML, CSS, C#
 
-Backend: FastAPI, NestJS
+Web Development
 
-Areas of Interest: Machine Learning, Artificial Intelligence, Full Stack Development
+* React.js, Node.js, Express.js, Next.js
 
-Projects
+Backend & Mobile
 
-1. Crop Yield Prediction System
+* FastAPI, NestJS, React Native
 
-* Developed a machine learning-based crop yield prediction application.
-* Created a REST API using FastAPI.
-* Implemented a prediction endpoint for processing new input data.
+Databases
 
-2. Plant Disease Detection using Edge AI and TinyML
+* MySQL, MongoDB
 
-* Studied deep learning approaches for plant disease detection.
-* Explored lightweight models for resource-constrained edge devices.
-* Focused on real-time agricultural applications.
+Areas of Interest
 
-What I’m Working On
+* Full Stack Development
+* Artificial Intelligence & Machine Learning
+* Backend Development
+* Data Structures and Algorithms
 
-* Improving Data Structures and Algorithms.
-* Building full-stack applications.
-* Learning backend architecture and API development.
-* Exploring practical applications of Machine Learning.
+Academic Projects
 
-GitHub
+1. Indian Tourist Assistance
 
-I use GitHub to maintain my projects, experiment with technologies, and document my development journey.
+* Developed a web platform showcasing Indian tourist destinations and regional cuisines.
+* Integrated interactive maps for restaurant discovery.
+* Added real-time flight information to support travel planning.
+* Technologies: MongoDB, Express.js, Node.js, HTML, CSS, JavaScript.
 
-Explore my repositories⁠￼
+2. Lab Equipment and Management System
 
-Connect
+* Developed a platform to manage CSE laboratories at Vignan University.
+* Maintained lab information, room numbers, floor details and lab in-charge information.
+* Enabled students to view available software and equipment, raise complaints, and request tools.
+* Technologies: MERN Stack.
 
-GitHub: https://github.com/harshaa2005
+AI & Machine Learning Projects – Development Goals
+
+* Student Performance Prediction System
+* Smart Agriculture: Crop Yield Prediction
+* Plant Disease Detection Using Deep Learning
+
+Certifications
+
+* SAP ABAP – Advanced Business Application Programming
+* Cisco Packet Tracer – Networking Simulation and Configuration
+* NPTEL – Principles of Management
+
+Education
+
+B.Tech – Computer Science and Engineering
+
+Vignan’s Foundation for Science, Technology and Research
+
+2023 – 2027
+
+Connect With Me
+
+* GitHub: https://github.com/harshaa2005
+* Email: harsha.bandreddy742@gmail.com
+
+Always learning, building, and improving my software development skills.
